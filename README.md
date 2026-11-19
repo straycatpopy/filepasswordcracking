@@ -19,3 +19,7 @@ I initially attempted to use Johnny (GUI) but encountered difficulties. I switch
 
  Conclusion
 The exercise helped me understand dictionary attacks, password recovery, and the importance of using strong passwords.
+
+
+##password cracking using networkwalks
+i used the networkwalks tool to hash the password then their password cracking tool to crack it i hadto upload a few more dictionaries of passwords to crack the second file

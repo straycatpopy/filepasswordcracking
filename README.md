@@ -2,7 +2,7 @@
 Password Cracking Using John the Ripper
 
 Operating System: Kali Linux  
-Tool Used: John the Ripper (JTR)
+Tool Used: online hashcrack,John the Ripper (JTR)
 
  Description
 This practical involved using John the Ripper to perform a dictionary attack on password hashes and identify weak passwords.
